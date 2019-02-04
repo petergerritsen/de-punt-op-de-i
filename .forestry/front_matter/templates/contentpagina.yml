@@ -1,7 +1,7 @@
 ---
 label: Contentpagina
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
@@ -12,9 +12,13 @@ fields:
   label: Group
   type: text
   hidden: false
-  default: ''
-- name: order
-  label: Order
-  type: text
-  hidden: false
-  default: ''
+  default: navigation
+- type: number
+  name: order
+  label: order
+  config:
+    min: '1'
+    max: '99'
+    step: '1'
+    required: false
+  default: '10'
