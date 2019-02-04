@@ -1,8 +1,17 @@
+/* Show it is fixed to the top */
 body {
-    padding-top: 5rem;
-  }
-  
-  .starter-template {
-    padding: 3rem 4.5rem;
-    text-align: center;
-  }
+    padding-top: 4.5rem;
+}
+
+h2 {
+    font-family: 'Nunito', sans-serif;
+}
+
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item:focus .nav-link{
+    color: #d40000;
+}
+
+.navbar-light .nav-item:hover .nav-link {
+    color: black;
+}
