@@ -7,11 +7,28 @@ h2 {
     font-family: 'Nunito', sans-serif;
 }
 
-.navbar-light .nav-item.active .nav-link,
-.navbar-light .nav-item:focus .nav-link{
+a {
     color: #d40000;
+}
+a:hover{
+    color: black;
+}
+
+nav.navbar-light,
+nav.bg-light {
+    background-color: #e9ecef !important;
+}
+
+.navbar-light .nav-item .nav-link {
+    color: #d40000;
+}
+
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item:focus .nav-link {
+    color: black;
 }
 
 .navbar-light .nav-item:hover .nav-link {
     color: black;
 }
+

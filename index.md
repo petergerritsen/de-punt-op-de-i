@@ -14,7 +14,7 @@ Tijdens mijn studie, maar vooral in mijn werk, heb ik veel kennis en ervaring op
 De naam van mijn bedrijf, __Dé punt op de i__, heb ik gekozen omdat veel van mijn werkzaamheden met de finesses van taal te maken hebben. Maar ook bij administratieve processen zijn de puntjes op de i belangrijk. En tenslotte heb ik voor deze naam gekozen omdat ik precies ben en graag die puntjes zet.
 
 Wat bied ik in __Dé punt op de i__ aan?
-* Nederlands als tweede taal (NT2);
-* Correctie- en redigeerwerk van website-teksten, scripties, artikelen, boeken etc.;
-* Analyse van en advies voor administratieve processen in het onderwijs;
-* Voorlezen, zowel voor kinderen als voor volwassenen die niet (meer) zo goed zelf kunnen lezen; inspreken van gesproken boeken of andere teksten.
+* Nederlands als tweede taal (NT2). [lees verder](nt2/index.md)
+* Correctie- en redigeerwerk van website-teksten, scripties, artikelen, boeken etc.  [lees verder](correctie-en-redigeerwerk/index.md)
+* Analyse van en advies voor administratieve processen in het onderwijs. [lees verder](administratieve-processen/index.md)
+* Voorlezen, zowel voor kinderen als voor volwassenen die niet (meer) zo goed zelf kunnen lezen; inspreken van gesproken boeken of andere teksten. [lees verder](voorlezen/index.md)
