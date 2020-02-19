@@ -1,7 +1,9 @@
 ---
 title: Contact
-group: "navigation"
+group: navigation
 order: 1
----
 
-Iets van contactgegevens
+---
+e-mail: paulien@de-punt-op-de-i.nl
+
+telefoon: +31648138810
